@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e9/33/24/e93324a437b236713316b6c1600c261a.gif" alt="logo" style="width: 80%; max-width: 600px;" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm ᴍɪɢᴜᴇʟ ᴏ’ʜᴀʀᴀ!</h1>
 <h3 align="center">As the brilliant geneticist and valiant hero of the future, I swing through the bustling streets of Nueva York, fighting crime and defending justice with every web-slinging move!</h3>
 
